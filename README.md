@@ -1,4 +1,4 @@
-# Market & Customer Segmentation
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6be7681d-7131-4cb9-ae52-bca8fa229b1e" /># Market & Customer Segmentation
 
 ## Overview
 
@@ -134,6 +134,20 @@ The project generates the following outputs:
 | customer_clusters.png | Customer cluster visualization        |
 | pca_clusters.png      | PCA-based cluster visualization       |
 | cluster_report.csv    | Cluster-wise customer statistics      |
+## Project Outputs
+
+### Elbow Method
+
+![Elbow Method](outputs/elbow_method.png)
+
+### Customer Segmentation
+
+![Customer Segmentation](outputs/customer_clusters.png)
+
+### PCA Visualization
+
+![PCA Visualization](outputs/pca_clusters.png)
+
 
 ---
 
